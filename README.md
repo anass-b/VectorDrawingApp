@@ -1,5 +1,5 @@
-# Vector Drawing - Direct2D & MFC
+# Vector Drawing - Direct2D and MFC based desktop app
 
-This app uses Direct2D for rendering and MFC for UI.
+This app uses Direct2D for rendering and MFC for the UI.
 
-![](./docs/app_screenshot.png)
+![](./docs/screenshot.png)
